@@ -1,4 +1,4 @@
-TweetWactch
+TweetWatch
 ===========
 
 using node js to watch tweets from a specific hashtag

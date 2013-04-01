@@ -1,0 +1,30 @@
+{
+    "name": "interactive-screens",
+    "version": "0.0.1",
+    "author": "Andrei Silva <andreissf@gmail.com>",
+    "description": "Server Watcher Project",
+    "scripts": {
+        "start": "node ./app"
+    },
+    "dependencies": {
+        "xml2js": "0.1.14",
+        "sax": "0.4.2",
+        "cjson": "*",
+        "feedparser": "0.9.x",
+        "mongojs": "0.4.x",
+        "request": "2.10.x",
+        "msgpack3": "*",
+        "jsftp": "*",
+        "connect": ">=2.4.4",
+        "ntwitter": ">=0.4.1",
+        "validator" : ">=0.4.15",
+        "express": ">=3",
+        "ejs": "*",
+        "express-ejs-layouts": "*",
+	    "tunnel":"*",
+        "winston":"*"
+    },
+    "engine": {
+        "node": ">=0.8"
+    }
+}
